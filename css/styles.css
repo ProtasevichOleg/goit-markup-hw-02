@@ -1,0 +1,25 @@
+:root {
+    --primary-text-color: #757575; /**/
+    --title-text-color: #212121; /**/
+    --accent-color: #2196F3; /**/
+    --main-white-color: #FFFFFF; /*main bg, active btn text, primary text color on dark bg*/
+    --dark-bg-color: #2F303A; /**/
+    --secondary-accent-color: #F5F4FA; /*our team section, unactive btns*/
+    --footer-adress-secondary-color: rgba(255, 255, 255, 0.6); /**/
+    --main-black-color: #000000; /*header logo*/
+
+
+
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.list {
+    list-style-type: none;
+}
+
+.link {
+    text-decoration: none;
+}
