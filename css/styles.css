@@ -9,8 +9,8 @@
   --secondary-bg-color: #f5f4fa;
   --dark-bg-color: #2f303a;
   --unactive-button-bg-color: #f5f4fa;
-  --footer-address-secondary-color: rgba(255, 255, 255, 0.6); /**/
-  --main-black-color: #000000; /*header logo*/
+  --footer-address-secondary-color: rgba(255, 255, 255, 0.6);
+  --main-black-color: #000000;
   --portfolio-card-border-color: #eeeeee;
 }
 
